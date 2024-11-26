@@ -35,8 +35,8 @@ Presentation: A PowerPoint file showcasing insights and recommendations.
 
 # How to Use:
 
-SQL Queries: Open the SQL folder and execute the scripts in MySQL.
-Power BI Dashboards: Access the Power BI files in Power BI Desktop.
-Presentation: View the PowerPoint file for insights and recommendations.
+1. SQL Queries: Open the SQL folder and execute the scripts in MySQL.
+2. Power BI Dashboards: Access the Power BI files in Power BI Desktop.
+3. Presentation: View the PowerPoint file for insights and recommendations.
 
 This project reflects my ability to analyze data, visualize results, and deliver impactful insights, supporting data-driven decision-making in a business environment.
